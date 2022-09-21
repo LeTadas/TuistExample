@@ -1,7 +1,7 @@
 # Sample Tuist project
 Simple project to explore tuist for generating project Targets and managing dependencies
 
-# Dependency graph
+## Dependency graph
 ![Dependency Graph](./graph.png?raw=true "Dependency graph")
 
 ## Project setup
